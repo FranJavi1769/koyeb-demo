@@ -1,3 +1,6 @@
+name = "koyeb-demo"
+type = "web"
+
 [build]
 builder = "python:3.11"
 
